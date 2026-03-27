@@ -4,7 +4,8 @@ ParScore is a full-stack SaaS platform that combines golf performance tracking w
 
 Users can subscribe, submit scores, contribute to charities, and participate in monthly prize draws — while admins manage the entire ecosystem through a powerful dashboard.
 
-⚡ Built with production-grade architecture including authentication, payments, database triggers, and role-based access.
+⚡Built with production-grade architecture including authentication, payments, database triggers, and role-based access.
+
 ---
 
 ## 🚀 Live Demo
