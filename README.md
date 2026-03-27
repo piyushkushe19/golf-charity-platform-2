@@ -1,7 +1,10 @@
-# ⛳ ParScore — Golf Charity Subscription Platform
+# ⛳ ParScore — Golf Charity Subscription Platform(Saas)
 
-A full-stack subscription-based web application that combines golf scoring with charity contributions and monthly prize draws.
+ParScore is a full-stack SaaS platform that combines golf performance tracking with charity contributions and prize-based incentives.
 
+Users can subscribe, submit scores, contribute to charities, and participate in monthly prize draws — while admins manage the entire ecosystem through a powerful dashboard.
+
+⚡ Built with production-grade architecture including authentication, payments, database triggers, and role-based access.
 ---
 
 ## 🚀 Live Demo
